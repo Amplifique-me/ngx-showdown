@@ -126,8 +126,8 @@
       "check-format",
       "allow-pascal-case",
       "allow-leading-underscore"
-    ]
-  ,    "whitespace": {
+    ],
+    "whitespace": {
       "options": [
         "check-branch",
         "check-decl",
@@ -137,5 +137,5 @@
         "check-typecast"
       ]
     }
-}
+  }
 }
