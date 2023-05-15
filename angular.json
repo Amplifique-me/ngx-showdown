@@ -3,7 +3,8 @@
   "version": 1,
   "defaultProject": "lib",
   "cli": {
-    "packageManager": "yarn"
+    "packageManager": "yarn",
+    "analytics": false
   },
   "newProjectRoot": "",
   "projects": {

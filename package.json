@@ -34,6 +34,7 @@
     "build": "run-s build:*",
     "build:lib": "ng build lib",
     "build:demo": "ng build demo",
+    "start:demo": "ng serve demo",
     "build:docs": "compodoc",
     "coverage": "codecov --file=coverage/coverage-final.json",
     "clean": "rimraf dist coverage",
@@ -54,12 +55,6 @@
   },
   "engines": {
     "node": ">=10.18"
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "yarn verify",
-      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
-    }
   },
   "commitlint": {
     "extends": [
