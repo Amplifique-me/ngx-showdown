@@ -1,5 +1,5 @@
 {
-  "name": "ngx-showdown",
+  "name": "@amplifiqueme/ngx-showdown",
   "version": "0.0.0-semantically-released",
   "description": "A Angular (>=2) integration for Showdown",
   "keywords": [
@@ -18,17 +18,14 @@
   ],
   "license": "MIT",
   "author": {
-    "name": "Yisrael Eliav",
-    "email": "yisraelx@gmail.com",
-    "url": "https://github.com/yisraelx/"
+    "name": "Robson Jean Penteado",
+    "email": "robson@amplifique.me",
+    "url": "https://github.com/Amplifique-me/"
   },
-  "homepage": "http://yisraelx.github.io/ngx-showdown",
+  "homepage": "https://github.com/Amplifique-me/ngx-showdown",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yisraelx/ngx-showdown.git"
-  },
-  "bugs": {
-    "url": "https://github.com/yisraelx/ngx-showdown/issues"
+    "url": "https://github.com/Amplifique-me/ngx-showdown"
   },
   "scripts": {
     "build": "run-s build:*",
